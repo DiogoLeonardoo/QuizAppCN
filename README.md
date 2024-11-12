@@ -2,6 +2,10 @@
 
 Este é um quiz interativo desenvolvido com **ReactJS**, **TailwindCSS**, **Next.js** e **TypeScript**. O objetivo do quiz é testar os conhecimentos dos usuários em diversas áreas das ciências naturais, com perguntas de múltipla escolha e feedback visual.
 
+![Captura de Tela](./Captura%20de%20tela%202024-11-12%20083743.png)
+![Captura de Tela 2024-11-12 083641](./Captura%20de%20tela%202024-11-12%20083641.png)
+
+
 ## Tecnologias Utilizadas
 
 - **ReactJS**: Biblioteca JavaScript para construção de interfaces de usuário.
