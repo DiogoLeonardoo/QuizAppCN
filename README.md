@@ -1,3 +1,36 @@
+# Quiz de Ciências da Natureza
+
+Este é um quiz interativo desenvolvido com **ReactJS**, **TailwindCSS**, **Next.js** e **TypeScript**. O objetivo do quiz é testar os conhecimentos dos usuários em diversas áreas das ciências naturais, com perguntas de múltipla escolha e feedback visual.
+
+## Tecnologias Utilizadas
+
+- **ReactJS**: Biblioteca JavaScript para construção de interfaces de usuário.
+- **TailwindCSS**: Framework CSS para estilização rápida e eficiente.
+- **Next.js**: Framework React para desenvolvimento de aplicações web com renderização do lado do servidor (SSR).
+- **TypeScript**: Superset do JavaScript que adiciona tipagem estática ao código.
+
+## Funcionalidades
+
+- **Quiz Interativo**: Perguntas de múltipla escolha sobre Ciências da Natureza.
+- **Feedback Visual**: Cores diferentes para respostas corretas e incorretas, facilitando o aprendizado e a interação.
+- **Navegação Fácil**: Botão para avançar para a próxima pergunta.
+- **Reiniciar Quiz**: Opção para reiniciar o quiz e tentar novamente.
+- **Resultados**: Exibição dos resultados ao final do quiz, indicando o número de respostas corretas.
+- **Interface Estilizada**: A interface é estilizada utilizando TailwindCSS, oferecendo uma experiência visual agradável e responsiva.
+
+## Como Executar o Projeto
+
+Para rodar o projeto localmente, siga as etapas abaixo:
+
+### 1. Clonar o repositório
+
+```bash
+git clone https://github.com/seu-usuario/quiz-ciencias-da-natureza.git
+cd quiz-ciencias-da-natureza
+
+
+## Documentação Next.js
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
